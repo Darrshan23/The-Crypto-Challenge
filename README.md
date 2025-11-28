@@ -22,15 +22,3 @@ An interactive cybersecurity game that teaches cryptography through hands-on dec
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
-
-### Quick Start
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/crypto-challenge.git
-cd crypto-challenge
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the game
-python crypto_game.py
