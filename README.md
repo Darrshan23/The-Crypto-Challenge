@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![Cryptography](https://img.shields.io/badge/Cryptography-Fernet-green)](https://cryptography.io)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 An interactive cybersecurity game that teaches cryptography through hands-on decryption challenges. Progress through levels, learn encryption techniques, and become a crypto expert!
 
